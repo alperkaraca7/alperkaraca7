@@ -8,7 +8,7 @@
 
 ## Reach out to me
 
-[<img width="22" src="[https://icons8.com/icon/wjmIz86BWbyf/linkedin-circled" align="left" />][linkedin]
+[<img width="22" src="[https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
 
 ## Tech I use
