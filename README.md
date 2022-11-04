@@ -27,12 +27,12 @@
 <br />
 
 <details>
-<summary>:bulb Github Stats</summary>
+<summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=alperkaraca7&theme=merko" >
 </details>
 
 <details>
-<summary>:bulb Most Used Languages</summary>
+<summary>:bulb: Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperkaraca7&layout=compact" >
 </details>
 
